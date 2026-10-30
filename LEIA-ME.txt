@@ -1,0 +1,26 @@
+LOCALPULSE — SITE INSTITUCIONAL
+
+Estrutura:
+- index.html: página inicial
+- servicos.html: página de serviços e faixa de investimento
+- parcerias.html: página de parcerias
+- atualizacoes.html: página de atualizações
+- css/style.css: estilos responsivos compartilhados
+- js/main.js: menu mobile
+- assets/imagem-hero.png: imagem enviada para a área principal da página inicial
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Mantenha a estrutura de pastas.
+3. Abra index.html no navegador.
+
+Personalização:
+- O nome LOCALPULSE é provisório e pode ser substituído.
+- O WhatsApp já está configurado com o número informado.
+- A imagem principal está em assets/imagem-hero.png.
+- Os preços apresentados são a faixa informada: R$ 50 a R$ 150.
+
+Observações:
+- Site institucional estático, sem painel administrativo ou backend.
+- O texto evita prometer posição no Google ou aumento garantido de vendas.
+- O projeto é independente e não representa parceria oficial com o Google.
