@@ -27,6 +27,7 @@ Contato:
 - Cardápios e design: R$ 15,00 a R$ 50,00; catálogos: R$ 30,00 a R$ 80,00.
 - Planilhas têm preço variado; Perfil da Empresa no Google requer avaliação e orçamento.
 - A vitrine de parceiros é gratuita; perfis são adicionados manualmente após autorização.
+- Instagram: https://www.instagram.com/localpulse0/
 
 Observações:
 - Site institucional estático, sem painel administrativo ou backend.
